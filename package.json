@@ -1,0 +1,23 @@
+{
+  "name": "ascolor",
+  "version": "0.0.1",
+  "description": "a simple ascii color library",
+  "main": "./ascolor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/influx6/ascolor.git"
+  },
+  "keywords": [
+    "ascii",
+    "colors",
+    "color",
+    "code",
+    "terminal",
+    "colors"
+  ],
+  "author": "Alexander Adeniyi Ewetumo",
+  "license": "MIT"
+}
